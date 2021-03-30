@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MadalinV/backing-website/static/css/main.c5ea8c6f.chunk.css",
+    "main.js": "/MadalinV/backing-website/static/js/main.e62a6c19.chunk.js",
+    "main.js.map": "/MadalinV/backing-website/static/js/main.e62a6c19.chunk.js.map",
+    "runtime-main.js": "/MadalinV/backing-website/static/js/runtime-main.9f1dc29c.js",
+    "runtime-main.js.map": "/MadalinV/backing-website/static/js/runtime-main.9f1dc29c.js.map",
+    "static/js/2.20781742.chunk.js": "/MadalinV/backing-website/static/js/2.20781742.chunk.js",
+    "static/js/2.20781742.chunk.js.map": "/MadalinV/backing-website/static/js/2.20781742.chunk.js.map",
+    "index.html": "/MadalinV/backing-website/index.html",
+    "static/css/main.c5ea8c6f.chunk.css.map": "/MadalinV/backing-website/static/css/main.c5ea8c6f.chunk.css.map",
+    "static/js/2.20781742.chunk.js.LICENSE.txt": "/MadalinV/backing-website/static/js/2.20781742.chunk.js.LICENSE.txt",
+    "static/media/svg-1.675fea61.svg": "/MadalinV/backing-website/static/media/svg-1.675fea61.svg",
+    "static/media/svg-2.9ea4c2e8.svg": "/MadalinV/backing-website/static/media/svg-2.9ea4c2e8.svg",
+    "static/media/svg-3.9f3dd030.svg": "/MadalinV/backing-website/static/media/svg-3.9f3dd030.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f1dc29c.js",
+    "static/js/2.20781742.chunk.js",
+    "static/css/main.c5ea8c6f.chunk.css",
+    "static/js/main.e62a6c19.chunk.js"
+  ]
+}
