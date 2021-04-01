@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/backing-website/static/css/main.c5ea8c6f.chunk.css",
-    "main.js": "/backing-website/static/js/main.254eb4a3.chunk.js",
-    "main.js.map": "/backing-website/static/js/main.254eb4a3.chunk.js.map",
-    "runtime-main.js": "/backing-website/static/js/runtime-main.b0ea8f1b.js",
-    "runtime-main.js.map": "/backing-website/static/js/runtime-main.b0ea8f1b.js.map",
-    "static/js/2.b9ad1750.chunk.js": "/backing-website/static/js/2.b9ad1750.chunk.js",
-    "static/js/2.b9ad1750.chunk.js.map": "/backing-website/static/js/2.b9ad1750.chunk.js.map",
-    "index.html": "/backing-website/index.html",
-    "static/css/main.c5ea8c6f.chunk.css.map": "/backing-website/static/css/main.c5ea8c6f.chunk.css.map",
-    "static/js/2.b9ad1750.chunk.js.LICENSE.txt": "/backing-website/static/js/2.b9ad1750.chunk.js.LICENSE.txt",
-    "static/media/svg-1.675fea61.svg": "/backing-website/static/media/svg-1.675fea61.svg",
-    "static/media/svg-2.9ea4c2e8.svg": "/backing-website/static/media/svg-2.9ea4c2e8.svg",
-    "static/media/svg-3.9f3dd030.svg": "/backing-website/static/media/svg-3.9f3dd030.svg"
+    "main.css": "/banking-website/static/css/main.c5ea8c6f.chunk.css",
+    "main.js": "/banking-website/static/js/main.c83b9eb0.chunk.js",
+    "main.js.map": "/banking-website/static/js/main.c83b9eb0.chunk.js.map",
+    "runtime-main.js": "/banking-website/static/js/runtime-main.bb79c11d.js",
+    "runtime-main.js.map": "/banking-website/static/js/runtime-main.bb79c11d.js.map",
+    "static/js/2.a3697c57.chunk.js": "/banking-website/static/js/2.a3697c57.chunk.js",
+    "static/js/2.a3697c57.chunk.js.map": "/banking-website/static/js/2.a3697c57.chunk.js.map",
+    "index.html": "/banking-website/index.html",
+    "static/css/main.c5ea8c6f.chunk.css.map": "/banking-website/static/css/main.c5ea8c6f.chunk.css.map",
+    "static/js/2.a3697c57.chunk.js.LICENSE.txt": "/banking-website/static/js/2.a3697c57.chunk.js.LICENSE.txt",
+    "static/media/svg-1.675fea61.svg": "/banking-website/static/media/svg-1.675fea61.svg",
+    "static/media/svg-2.9ea4c2e8.svg": "/banking-website/static/media/svg-2.9ea4c2e8.svg",
+    "static/media/svg-3.9f3dd030.svg": "/banking-website/static/media/svg-3.9f3dd030.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0ea8f1b.js",
-    "static/js/2.b9ad1750.chunk.js",
+    "static/js/runtime-main.bb79c11d.js",
+    "static/js/2.a3697c57.chunk.js",
     "static/css/main.c5ea8c6f.chunk.css",
-    "static/js/main.254eb4a3.chunk.js"
+    "static/js/main.c83b9eb0.chunk.js"
   ]
 }
